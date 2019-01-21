@@ -13,7 +13,7 @@
         "snippets": [
             {
                 "language": "php",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/php.json"
             }
         ]
     }
